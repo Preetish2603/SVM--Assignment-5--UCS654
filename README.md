@@ -95,7 +95,7 @@ This project implements an optimized Support Vector Machine (SVM) classifier for
 ---
 
 ## Files Included
-- `svm_optimization.py`: Main implementation script  
+- `svm_final_check.py`: Main implementation script  
 - `class_distribution.png`: Class frequency visualization  
 - `feature_correlation.png`: Feature relationships heatmap  
 - `convergence_plot.png`: Optimization progress graph  
